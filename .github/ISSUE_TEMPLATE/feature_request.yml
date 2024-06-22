@@ -1,6 +1,6 @@
 name: Add Layer Leap Request
 description: File a request to have your Orbit chain support Layer Leap transfers
-title: "[feat]: "
+title: "[feat]: enable Layer Leap for"
 labels: ["feat", "triage"]
 body:
   - type: markdown
@@ -69,6 +69,8 @@ body:
       label: Enable Layer Leap
       options:
         - label: We would like to adopt Layer Leap on bridge.arbitrum.io
+    validations:
+      required: true
   - type: input
     id: layerleap-token-symbol
     attributes:
