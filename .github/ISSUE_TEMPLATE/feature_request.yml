@@ -69,8 +69,7 @@ body:
       label: Enable Layer Leap
       options:
         - label: We would like to adopt Layer Leap on bridge.arbitrum.io
-    validations:
-      required: true
+        required: true
   - type: input
     id: layerleap-token-symbol
     attributes:
