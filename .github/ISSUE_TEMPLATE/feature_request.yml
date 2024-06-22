@@ -1,6 +1,6 @@
 name: Add Layer Leap Request
 description: File a request to have your Orbit chain support Layer Leap transfers
-title: "[feat]: enable Layer Leap for"
+title: "[feat]: enable Layer Leap for <Orbit Chain>"
 labels: ["feat", "triage"]
 body:
   - type: markdown
