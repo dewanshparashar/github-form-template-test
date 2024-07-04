@@ -39,7 +39,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Native token information - only fill this if you are using a native token other than ETH
+        Native Token Information - only fill this out if you are using a native token other than ETH. Please note that LayerLeap is not currently supported on custom gas token chains, but this form should still be submitted as a sign of interest.
   - type: input
     id: native-token-address
     attributes:
